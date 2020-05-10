@@ -1,0 +1,84 @@
+body {
+    background-color: #fff !important;
+    color: #333 !important;
+}
+
+.navbar-brand, .details a, .table  {
+    color: #333 !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #98afbc !important;
+}
+.navbar-light .navbar-nav .nav-link:hover, .text-body  {
+    color: #666 !important;
+}
+
+mark, .mark {
+    background-color: #fcf8e3;
+}
+
+.post-title .text-body {
+    color: #3498DB !important;
+}
+.text-muted {
+    color: #98afbc !important;
+}
+.badge-light {
+    display: none !important;
+}
+.border-light {
+    border-color: #dee2e6 !important;
+}
+
+.card {
+    background-color: #fafafa;
+    border-color: #eee !important;
+}
+
+.btn-group .btn-secondary {
+    color: #98afbc !important;
+    background-color: #fff;
+    border-color: #fff;
+}
+.btn-group .btn-secondary:hover {
+    color: #98afbc !important;
+    background-color: #fff;
+    border-color: #fff;
+    border-bottom: 2px solid #f56400;
+}
+
+.btn-group .btn-secondary:not(:disabled):not(.disabled):active, .btn-group .btn-secondary:not(:disabled):not(.disabled).active, .show > .btn-group .btn-secondary.dropdown-toggle {
+    color: #98afbc !important;
+    background-color: #fff;
+    border-color: #fff;
+    border-bottom: 2px solid #f56400;
+}
+.badge-secondary {
+    background-color: rgb(229, 137, 65);
+}
+.form-control, .form-control:focus {
+    background-color: #eee;
+    color: #333;
+}
+ 
+hr {
+    border-top: 1px solid rgba(0,0,0,0.1);
+}
+
+.mini-overlay {
+    color: #fff;
+}
+
+.btn-secondary {
+    color: #fff !important;
+    background-color: #0af;
+    border-color: transparent;
+}
+.btn-secondary:hover {
+        background-color: #09c;
+        border-color: transparent;
+}
+.custom-select {
+    color: #333;
+    background-color: #eee;
+}
