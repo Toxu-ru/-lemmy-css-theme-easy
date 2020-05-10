@@ -1,2 +1,2 @@
-# -lemmy-css-theme-easy
+# lemmy-css-theme-easy
 Trial css theme ...
