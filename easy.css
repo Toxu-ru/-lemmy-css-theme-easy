@@ -481,7 +481,9 @@ kbd kbd {
 pre {
     display: block;
     font-size: 87.5%;
-    color: #212529
+    color: #fff;
+    background-color: #444;
+    padding-left: 5px;
 }
 pre code {
     font-size: inherit;
@@ -9472,8 +9474,7 @@ a.text-dark:hover,
 a.text-dark:focus {
     color: #121416 !important
 }
-.text-body,
-.details a {
+.text-body  {
     color: #343a40 !important
 }
 .post-title .text-body {
